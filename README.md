@@ -1,2 +1,2 @@
-# .vimrc
-My .vimrc and init.vim configuration files!
+# vimrc
+My vimrc and init.vim configuration files!
