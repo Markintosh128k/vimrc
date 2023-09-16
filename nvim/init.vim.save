@@ -1,1 +1,4 @@
-/home/gianm/.config/nvim/init.vim.save
+set runtimepath^=~/.vim runtimepath+=~/.vim/after
+let &packpath = &runtimepath
+source ~/.vimrc
+
